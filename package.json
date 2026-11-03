@@ -84,7 +84,7 @@
     "autoprefixer": "^10.4.15",
     "env-cmd": "^10.1.0",
     "eslint": "^8.46.0",
-    "happy-dom": "^10.11.0",
+    "happy-dom": "^21.0.4",
     "husky": "^8.0.3",
     "patch-package": "^7.0.0",
     "postcss": "^8.4.28",
